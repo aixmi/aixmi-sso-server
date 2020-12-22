@@ -19,5 +19,9 @@
 			<groupId>io.github.aixmi</groupId>
 			<artifactId>aixmi-sso-server-web</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>io.github.aixmi</groupId>
+			<artifactId>aixmi-spring-boot-starter-swagger</artifactId>
+		</dependency>
 	</dependencies>
 </project>

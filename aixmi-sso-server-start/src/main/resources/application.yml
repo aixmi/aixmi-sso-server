@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: aixmi-sso-server-app
